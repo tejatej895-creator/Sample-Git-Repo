@@ -43,7 +43,7 @@ git add .
 
 1. `git add .` adds the changes that have been made to our repository, in this way we will send the changes to wait on the stage.
 
-4. Check the status of our files with the command:
+4. Check the status of our files with the jhfydtcghhv:
 
 ``` bash
 git status -s
